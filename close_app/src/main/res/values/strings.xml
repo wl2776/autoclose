@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">autoclose</string>
+
+    <string name="engine">"Двигатель %1$s"</string>
+    <string name="engine_started">запущен</string>
+    <string name="engine_stopped">остановлен</string>
+
+    <string name="doors">"Двери %1$s"</string>
+    <string name="doors_open">открыты</string>
+    <string name="doors_closed">закрыты</string>
+
+    <string name="hand_brake">"Ручник %1$s"</string>
+    <string name="hand_brake_up">поднят</string>
+    <string name="hand_brake_down">опущен</string>
+
+    <string name="trunk">"Багажник %1$s"</string>
+    <string name="trunk_open">открыт</string>
+    <string name="trunk_closed">закрыт</string>
+
+    <string name="alarmed">"Охрана %1$s"</string>
+    <string name="alarmed_on">включена</string>
+    <string name="alarmed_off">выключена</string>
+
+    <string name="key">"Ключ %1$s"</string>
+    <string name="key_inserted">"в замке"</string>
+    <string name="key_pulled_out">"не в замке"</string>
+
+    <string name="timer_status">"Осталось %1$d сек"</string>
+
+    <string name="cancel_button_title">Отменить</string>
+    <string name="sms_code_title">Код из SMS</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="login_name_text">Имя</string>
+    <string name="ok_text">Ok</string>
+    <string name="password_text">Пароль</string>
+</resources>
